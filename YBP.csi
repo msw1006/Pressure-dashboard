@@ -1,0 +1,21 @@
+[Options]
+1=#P0#=1:2:1:1	.
+[Version]
+1=#P0#=2008	.
+[History]
+1=#P0#=ce	#P1#=picMove_Click	#P2#=Ybp|picMove_Click	#P3#=M:YBP.Ybp.picMove_Click(System.Object,System.EventArgs)	#P4#=	#P5#=YBP|Ybp.vb	#P6#=96	#P7#=20160326091521	#P8#=False	#P9#=picMove_Click   [Ybp.vb]	#P10#=0	.
+2=#P0#=pi	#P1#=Ybp.vb	#P2#=	#P3#=	#P4#=	#P5#=YBP|Ybp.vb	#P6#=33	#P7#=20160326091414	#P8#=False	#P9#=	.
+3=#P0#=ce	#P1#=DrawYBP	#P2#=Ybp|DrawYBP	#P3#=M:YBP.Ybp.DrawYBP(System.Drawing.Graphics)	#P4#=	#P5#=YBP|Ybp.vb	#P6#=74	#P7#=20160326091317	#P8#=False	#P9#=DrawYBP   [Ybp.vb]	#P10#=38	.
+4=#P0#=ce	#P1#=Ybp	#P2#=Ybp	#P3#=Ybp	#P4#=	#P5#=YBP|Ybp.vb	#P6#=126	#P7#=20160326091312	#P8#=False	#P9#=Ybp : UserControl   [Ybp.vb]	#P10#=0	.
+5=#P0#=ce	#P1#=picMove_Paint	#P2#=Ybp|picMove_Paint	#P3#=M:YBP.Ybp.picMove_Paint(System.Object,System.Windows.Forms.PaintEventArgs)	#P4#=	#P5#=YBP|Ybp.vb	#P6#=96	#P7#=20150708110324	#P8#=False	#P9#=picMove_Paint   [Ybp.vb]	#P10#=66	.
+6=#P0#=ce	#P1#=ijingdu	#P2#=Ybp|ijingdu	#P3#=ijingdu	#P4#=	#P5#=YBP|Ybp.vb	#P6#=75	#P7#=20150708110114	#P8#=False	#P9#=ijingdu (get, set)   [Ybp.vb]	#P10#=6	.
+7=#P0#=ce	#P1#=strJingdu	#P2#=Ybp|strJingdu	#P3#=strJingdu	#P4#=	#P5#=YBP|Ybp.vb	#P6#=91	#P7#=20150708110111	#P8#=False	#P9#=strJingdu = "f4"   [Ybp.vb]	#P10#=0	.
+8=#P0#=ce	#P1#=bIsclicking	#P2#=Ybp|bIsclicking	#P3#=bIsclicking	#P4#=	#P5#=YBP|Ybp.vb	#P6#=75	#P7#=20150708110021	#P8#=False	#P9#=bIsclicking (get, set)   [Ybp.vb]	#P10#=5	.
+9=#P0#=pi	#P1#=click.ico	#P2#=	#P3#=	#P4#=	#P5#=YBP|Resources|click.ico	#P6#=57	#P7#=20150612151946	#P8#=False	#P9#=	.
+10=#P0#=pi	#P1#=未标题-1.png	#P2#=	#P3#=	#P4#=	#P5#=YBP|Resources|未标题-1.png	#P6#=201	#P7#=20150612151944	#P8#=False	#P9#=	.
+11=#P0#=ce	#P1#=SvEd	#P2#=Ybp|SvEd	#P3#=SvEd	#P4#=	#P5#=YBP|Ybp.vb	#P6#=75	#P7#=20150612151805	#P8#=False	#P9#=SvEd (get, set)   [Ybp.vb]	#P10#=0	.
+12=#P0#=ce	#P1#=Timer2_Tick	#P2#=Ybp|Timer2_Tick	#P3#=M:YBP.Ybp.Timer2_Tick(System.Object,System.EventArgs)	#P4#=	#P5#=YBP|Ybp.vb	#P6#=96	#P7#=20150610101503	#P8#=False	#P9#=Timer2_Tick   [Ybp.vb]	#P10#=4	.
+13=#P0#=ce	#P1#=bYbpWait	#P2#=Ybp|bYbpWait	#P3#=bYbpWait	#P4#=	#P5#=YBP|Ybp.vb	#P6#=75	#P7#=20150610101453	#P8#=False	#P9#=bYbpWait (get, set)   [Ybp.vb]	#P10#=0	.
+14=#P0#=ce	#P1#=ylseth1	#P2#=Ybp|ylseth1	#P3#=ylseth1	#P4#=	#P5#=YBP|Ybp.vb	#P6#=75	#P7#=20141106081655	#P8#=False	#P9#=ylseth1 (get, set)   [Ybp.vb]	#P10#=9	.
+15=#P0#=ce	#P1#=ylseth	#P2#=Ybp|ylseth	#P3#=ylseth	#P4#=	#P5#=YBP|Ybp.vb	#P6#=75	#P7#=20141106081648	#P8#=False	#P9#=ylseth (get, set)   [Ybp.vb]	#P10#=9	.
+16=#P0#=ce	#P1#=ylset	#P2#=Ybp|ylset	#P3#=ylset	#P4#=	#P5#=YBP|Ybp.vb	#P6#=75	#P7#=20141106081642	#P8#=False	#P9#=ylset (get, set)   [Ybp.vb]	#P10#=9	.
